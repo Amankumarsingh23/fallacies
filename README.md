@@ -29,7 +29,7 @@ Each entry in this repository provides a deep dive into a specific error of logi
 ### **Current Catalog**
 | Fallacy | Core Concept | Link |
 | :--- | :--- | :--- |
-| **Tu Quoque** | Deflecting criticism by pointing at the accuser's hypocrisy. | [View Guide](./The%20Tu%20Quoque.md) |
+| **Tu Quoque** | Deflecting criticism by pointing at the accuser's hypocrisy. | [View Guide](./TuQuoque.md) |
 | **Kettle Logic** | Using multiple contradictory arguments to defend a point. | [View Guide](./Kettle%20Logic.md) |
 | **Whataboutism** | Diverting a difficult question by raising a different issue. | [View Guide](./Whataboutism.md) |
 | **The Accent Fallacy** | Changing meaning by shifting emphasis on specific words. | [View Guide](./The%20Accent%20Fallacy.md) |
